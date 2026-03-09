@@ -9,10 +9,11 @@
 ---
 
 ### 🔥 Key Projects
+- 🎓 **AI-Powered Placement Preparation System (Final Year Project)** – AI mock interviews, online tests, malpractice detection & analytics using Gemini LLM and MediaPipe  
 - 🧠 **Agentic AI Healthcare Assistant** – Explainable symptom analysis using LLMs  
 - 🎧 **AudioAura** – Speech Emotion Recognition using Wav2Vec2  
 - 🏢 **JNPA Circular Management System** – React + Node + MySQL platform  
-- 🏠 **MySocietyPal** – Society Management Web Application  
+- 🏠 **MySocietyPal** – Society Management Web Application
 
 ---
 
