@@ -29,20 +29,14 @@
 ---
 
 
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=prathmesh3333&show_icons=true&theme=tokyonight"/>
-</p>
-
----
-
 ### 🌐 Connect With Me
 
+<p align="center">
 <a href="https://linkedin.com/in/prathmesh-deokar30">
-<img src="https://skillicons.dev/icons?i=linkedin" width="30"/> LinkedIn
+<img src="https://img.shields.io/badge/LinkedIn-Prathmesh%20Deokar-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:prathmeshdeokar30@gmail.com">
-📧 Email
+<img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+</p>
