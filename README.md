@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Prathmesh</h1>
 
-<!--
-**prathmesh3333/prathmesh3333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Computer Engineering Student (AI & ML) | Full Stack Developer
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ About Me
+- 🎓 B.E. Computer Engineering (AI & ML Honours) – CRIT Vashi  
+- 💡 Interested in **AI Systems, Machine Learning & Full Stack Development**  
+- 🚀 Building intelligent systems and scalable web applications  
+
+---
+
+### 🔥 Key Projects
+- 🧠 **Agentic AI Healthcare Assistant** – Explainable symptom analysis using LLMs  
+- 🎧 **AudioAura** – Speech Emotion Recognition using Wav2Vec2  
+- 🏢 **JNPA Circular Management System** – React + Node + MySQL platform  
+- 🏠 **MySocietyPal** – Society Management Web Application  
+
+---
+
+### 🛠 Tech Stack
+
+`Python` `JavaScript` `React` `Node.js` `MySQL` `Java` `C++`
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=prathmesh3333&show_icons=true&theme=tokyonight"/>
+</p>
+
+---
+
+### 🌐 Connect
+
+[LinkedIn](https://linkedin.com/in/prathmesh-deokar30) •  
+[Email](mailto:prathmeshdeokar30@gmail.com)
