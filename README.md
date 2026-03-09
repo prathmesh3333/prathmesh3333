@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋 I'm Prathmesh</h1>
-
-<p align="center">
-Computer Engineering Student (AI & ML) | Full Stack Developer
-</p>
-
 ---
 
 ### ⚡ About Me
-- 🎓 B.E. Computer Engineering (AI & ML Honours) – CRIT Vashi  
+- 🎓 B.E. Computer Engineering (AI & ML Honours) – FCRIT Vashi  
 - 💡 Interested in **AI Systems, Machine Learning & Full Stack Development**  
 - 🚀 Building intelligent systems and scalable web applications  
 
@@ -23,7 +18,9 @@ Computer Engineering Student (AI & ML) | Full Stack Developer
 
 ### 🛠 Tech Stack
 
-`Python` `JavaScript` `React` `Node.js` `MySQL` `Java` `C++`
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,react,nodejs,mysql,git,github,aws" />
+</p>
 
 ---
 
@@ -37,5 +34,12 @@ Computer Engineering Student (AI & ML) | Full Stack Developer
 
 ### 🌐 Connect
 
-[LinkedIn](https://linkedin.com/in/prathmesh-deokar30) •  
-[Email](mailto:prathmeshdeokar30@gmail.com)
+<p>
+<a href="https://linkedin.com/in/prathmesh-deokar30">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="mailto:prathmeshdeokar30@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail-new.png" height="40"/>
+</a>
+</p>
